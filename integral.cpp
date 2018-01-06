@@ -1,4 +1,4 @@
-//数値積分：台形法
+//Numerical integral：trapezoidal method(台形法)
 #include <iostream>
 #include <cmath>
 #include <iomanip>
